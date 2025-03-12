@@ -111,3 +111,4 @@ label:hover {
 #combo:checked ~ #combo-content {
     display: flex;
 }
+
