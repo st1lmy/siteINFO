@@ -77,22 +77,6 @@ input {
 }
 
 
-label {
-    color: #000000;
-    background: white;
-    padding: 30px 40px;
-    cursor: pointer;
-    border: 1px solid #000000;
-    border-radius: 5px;
-    margin: 25px;
-    margin-left: 5.1em;
-    display: inline-block;
-    font-size: large;
-}
-
-label:hover {
-    background: rgb(250, 239, 239);
-}
 
 .content {
     color: black;
