@@ -43,6 +43,10 @@
 #contacts { background-color: #999; }
 
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 
 
